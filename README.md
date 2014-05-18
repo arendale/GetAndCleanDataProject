@@ -1,8 +1,8 @@
 ## The repo includes the following files:
 
-* README.Rmd
+* README.md
 
-* CodeBook.Rmd
+* CodeBook.md
 
 * run_analysis.R
 
